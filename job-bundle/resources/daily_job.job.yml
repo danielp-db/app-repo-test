@@ -1,0 +1,6 @@
+resources:
+  jobs:
+    daily_job:
+      name: daily_job
+      queue:
+        enabled: true
